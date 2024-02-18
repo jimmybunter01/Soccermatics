@@ -15,6 +15,7 @@ mplsoccer = "^1.2.2"
 tqdm = "^4.66.1"
 statsmodels = "^0.14.1"
 scikit-learn = "^1.4.0"
+xgboost = "^2.0.3"
 
 
 [build-system]
